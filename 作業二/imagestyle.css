@@ -1,0 +1,18 @@
+body{
+    background-color:antiquewhite;
+    border-style: solid;
+    border-color:darksalmon;
+    border-width: thick;
+    padding: 14px
+}
+
+#img1{
+    border-style: solid;
+    border-color: aliceblue;
+    border-width:medium;
+    padding: 8px
+}
+
+p{
+    color: darkred;
+}
